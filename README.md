@@ -1,0 +1,2 @@
+# Seznam
+Domácí úkol: informatika
